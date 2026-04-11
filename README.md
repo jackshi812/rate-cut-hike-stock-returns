@@ -40,16 +40,6 @@ This project analyzes how financial markets respond to changes in monetary polic
 - Provides a framework for timing risk exposure  
 - Supports macro-driven trading and risk management strategies  
 
-## Project Structure
-rate-cut-hike-project/
-│
-├── data/              # raw and processed data (not included)
-├── notebooks/         # analysis and modeling
-├── src/               # scripts (optional)
-├── models/            # saved outputs
-├── README.md
-└── requirements.txt
-
 ## How to Run
 1. Clone the repository  
 2. Install dependencies:
