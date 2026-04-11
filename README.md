@@ -9,8 +9,6 @@ This project analyzes how financial markets respond to changes in monetary polic
 - Macroeconomic indicators (optional)
 - Time period: Historical time series aligned with rate events
 
-## Methodology
-
 ### Data Processing
 - Cleaned and aligned time series data across sources  
 - Created event indicators for rate hikes, cuts, and neutral periods  
@@ -34,6 +32,10 @@ This project analyzes how financial markets respond to changes in monetary polic
 - Rate hikes are typically associated with lower equity returns and higher volatility  
 - Rate cuts often signal economic slowdown but can support market recovery  
 - Sensitivity varies significantly across sectors and asset classes  
+
+![Change in Average Return for Each Segement](images/change_avg_rt_each_seg.png)
+![Significant Stocks by Sector](images/significant_stocks_by_sec.png)
+![Volatility around FOMC events](images/Vol_ar_FOMC.png)
 
 ## Business / Investment Insight
 - Helps investors adjust portfolio allocation based on monetary policy cycles  
